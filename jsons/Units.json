@@ -673,6 +673,6 @@
         	"requiredTech": "Homo Superior",
 		"requiredResource": "Nanomaterial",
         	"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization"]
-    	},
+    	}
 ]
 
