@@ -418,7 +418,7 @@
 		"percentStatBonus": {"gold": 25},
 		"percentStatBonus": {"science": 25},
 		"happiness": 2,
-		"uniques": ["Only available <in cities without a [Vertical Farm]>", "Only available <in cities without a [Mycoprotein Vats]>", "Only available <in cities without a [Orbital Habitat]>",],
+		"uniques": ["Only available <in cities without a [Vertical Farm]>", "Only available <in cities without a [Mycoprotein Vats]>", "Only available <in cities without a [Orbital Habitat]>"],
 		"requiredBuilding": "Genemod Lab",
 		"requiredTech": "Human Augmentation"
 	},
@@ -689,6 +689,6 @@
 		"specialistSlots": {"Scientist": 3},
 		"uniques": ["Free [Great Scientist] appears", "[+2 Gold] from every [Academy]","[+2 Science] from every [Academy]  <after discovering [Artificial Intelligence]>", "[+2 Gold] from every [Academy]  <after discovering [Energy Theory]>", "Only available <if [Research Lab] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
 		"requiredTech": "Particle Physics"
-	},
+	}
 ]
 
