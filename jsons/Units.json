@@ -291,7 +291,7 @@
 		"unitType": "Gunpowder",
 		"movement": 3,
 		"strength": 105,
-		"cost": 475
+		"cost": 475,
 		"requiredTech": "Nanomaterials",
 		"upgradesTo": "Battlesuit",
 		"obsoleteTech": "Adamantium",
@@ -440,7 +440,7 @@
         	"range": 4,
         	"cost": 925,
         	"requiredTech": "Hyperstructures",
-		"requiredResource": "Nanomaterial"
+		"requiredResource": "Nanomaterial",
         	"uniques": ["No defensive terrain bonus","[+200]% Strength <vs cities> <when attacking>","[-1] Sight","Can carry [3] [Missile] units","No movement cost to pillage"],
 		"promotions": [ "Indirect Fire"],
        		"attackSound": "artillery"
