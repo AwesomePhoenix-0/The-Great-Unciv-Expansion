@@ -1,0 +1,9 @@
+
+[ //Kurwizimi's Future Worlds
+  {
+		"name": "Nanomaterial",
+		"resourceType": "Strategic",
+		"revealedBy": "Nanomaterials",
+		"production": 1
+	},
+]
