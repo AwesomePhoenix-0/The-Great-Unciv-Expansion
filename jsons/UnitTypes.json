@@ -1,0 +1,11 @@
+[
+    {//AwesomPheonix's Unciv Trading
+        "name": "Trade Plane",
+        "movementType": "Air"
+        "uniques": ["Aircraft"]
+    },
+     {
+        "name": "Airport",
+        "movementType": "Land"
+    },
+]
