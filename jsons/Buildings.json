@@ -689,6 +689,485 @@
 		"specialistSlots": {"Scientist": 3},
 		"uniques": ["Free [Great Scientist] appears", "[+2 Gold] from every [Academy]","[+2 Science] from every [Academy]  <after discovering [Artificial Intelligence]>", "[+2 Gold] from every [Academy]  <after discovering [Energy Theory]>", "Only available <if [Research Lab] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
 		"requiredTech": "Particle Physics"
+	}, 
+	// Thunder's Other historical civs
+	{
+		"name": "Norse Temple",
+		"replaces": "Temple",
+		"uniqueTo": "Norway",
+		"maintenance": 2,
+		"uniques": ["[+1 Faith] from [Tundra] tiles [in this city]", "Destroyed when the city is captured"],
+		"faith": 2,
+		"culture": 1,
+		"requiredBuilding": "Shrine",
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy"
+	},
+	{
+		"name": "Gold Mine",
+		"maintenance": 0,
+		"requiredNearbyImprovedResources": ["Gold Ore", "Silver"],
+		"replaces": "Mint",
+		"uniqueTo": "Mali",
+		"production": 1,
+		"gold": 1,
+		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]"],
+		"hurryCostModifier": 25,
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Bryngaer",
+		"replaces": "Walls",
+		"cost": 50,
+		"uniqueTo": "Wales",
+		"cityStrength": 5,
+		"cityHealth": 65,
+		"culture": 3,
+		"hurryCostModifier": 20,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Red Cross Hospital",
+		"replaces": "Hospital"
+		"uniqueTo": "Switzerland"
+		"food": 10,
+		"requiredBuilding": "Aqueduct",
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"requiredTech": "Biology"
+	},
+	{
+		"name": "Galleon's Harbor",
+		"replaces": "Harbor"
+		"uniqueTo": "Aragon"
+		"cost": 120,
+		"production": 1,
+		"gold": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production] from [Water resource] tiles [in this city]",
+			"Connects trade routes over water","Must be next to [Coast]"],
+		"requiredTech": "Compass"
+	},
+	{
+		"name": "Kushana Stone Works",
+		"replaces": "Stone Works"
+		"uniqueTo": "Kushan"
+		"happiness": 1,
+		"production": 1,
+		"culture": 1,
+		"faith": 1,
+		"requiredNearbyImprovedResources": ["Marble", "Stone"],
+		"hurryCostModifier": 0,
+		"uniques": ["[+1 Production] from [Stone] tiles [in this city]", "[+1 Production] from [Marble] tiles [in this city]"],
+		"requiredTech": "Calendar"
+	},
+	{
+		"name": "Alan Courthouse",
+		"replaces": "Courthouse"
+		"uniqueTo": "The Vandals"
+		"maintenance": 1,
+		"happiness": 1,
+		"hurryCostModifier": 50,
+		"uniques": ["Removes extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>"],
+		"requiredTech": "Mathematics"
+	},
+	{
+		"name": "Pirate Bay",
+		"replaces": "Harbor"
+		"uniqueTo": "The Pirate Republic"
+		"cost": 120,
+		"production": 1,
+		"food": 1,
+		"happiness": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production] from [Water resource] tiles [in this city]",
+			"Connects trade routes over water","Must be next to [Coast]"],
+		"requiredTech": "Compass"
+	},
+	{
+		"name": "Reduction",
+		"replaces": "Temple",
+		"uniqueTo": "Guarani",
+		"maintenance": 2,
+		"culture": 2,
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"hurryCostModifier": 30,
+		"requiredTech": "Philosophy"
+	},
+	{
+		"name": "Gompas",
+		"uniqueTo": "Tibet",
+		"cost": 100,
+		"maintenance": 1,
+		"culture": 2,
+		"faith": 3,
+		"happiness": 1,
+		"hurryCostModifier": 40,
+		"requiredTech": "Theology"
+	},
+	{
+		"name": "Baray Reservoir",
+		"replaces": "Aqueduct",
+		"uniqueTo": "Funan",
+		"maintenance": 1,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"hurryCostModifier": 0,
+		"uniques": ["[50]% Food is carried over after population increases [in this city]"],
+		"requiredTech": "Engineering"
+	},
+	{
+		"name": "Caravanserai",
+		"replaces": "Market",
+		"uniqueTo": "The Nabataeans",
+		"gold": 3,
+		"specialistSlots": {"Merchant": 2},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["[+1 Production] from [Desert] tiles [in this city]", "[+2 Food] from [Oasis] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Sandstone Mausoleum",
+		"replaces": "Garden"
+		"uniqueTo": "The Nabataeans"
+		"culture": 1,
+		"faith": 1,
+		"uniques": ["[+25]% Great Person generation [in this city]"],
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"requiredTech": "Theology"
+	},
+	{
+		"name": "Trakai Castle",
+		"cost": 150,
+		"replaces": "Castle",
+		"uniqueTo": "Lithuania",
+		"cityStrength": 8,
+		"cityHealth": 30,
+		"happiness": 2,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"uniques": ["Destroyed when the city is captured"],
+		"requiredTech": "Chivalry"
+	},
+	{
+		"name": "Thingstead",
+		"replaces": "Courthouse"
+		"uniqueTo": "Saxony"
+		"maintenance": 2,
+		"culture": 2,
+		"faith": 1,
+		"hurryCostModifier": 50,
+		"uniques": ["Removes extra unhappiness from annexed cities"],
+		"requiredTech": "Mathematics"
+	},
+	{
+		"name": "Nuraghe",
+		"replaces": "Walls",
+		"cost": 45,
+		"uniqueTo": "The Sea People",
+		"cityStrength": 7,
+		"cityHealth": 50,
+		"production": 2,
+		"hurryCostModifier": 20,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Literary School",
+		"replaces": "University",
+		"uniqueTo": "Bulgaria",
+		"maintenance": 2,
+		"happiness": 1,
+		"hurryCostModifier": 15,
+		"greatPersonPoints": {"Great Artist": 1},
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"culture": 3,
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
+	},
+	{
+		"name": "Distillery",
+		"replaces": "Windmill",
+		"uniqueTo": "Scotland",
+		"production": 2,
+		"gold": 2,
+		"happiness": 1,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"uniques": ["[+10]% Production when constructing [All] buildings [in this city]"],
+		"requiredTech": "Economics"
+	},
+	{
+		"name": "Mingun Pagoda",
+		"replaces": "Temple"
+		"uniqueTo": "Burma"
+		"faith": 3,
+		"culture": 2,
+		"maintenance": 2,
+		"requiredBuilding": "Shrine",
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
+	},
+	{
+		"name": "Hanseatic Warehouse",
+		"replaces": "Harbor",
+		"uniqueTo": "Danzig",
+		"cost": 120,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production, +2 Gold] from [Water resource] tiles [in this city]",
+			"Connects trade routes over water","Must be next to [Coast]"],
+		"requiredTech": "Compass"
+	},
+	{
+		"name": "Mbanza",
+		"replaces": "Market",
+		"uniqueTo": "Kongo",
+		"gold": 2,
+		"culture": 2,
+		"faith": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Sapitu",
+		"replaces": "Barracks",
+		"uniqueTo": "Akkad",
+		"hurryCostModifier": 25,
+		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured", "[+15]% Production when constructing [All] units [in this city]"],
+		"requiredTech": "Bronze Working"
+	},
+	{
+		"name": "Glagolitic School",
+		"replaces": "Library",
+		"uniqueTo": "Croatia",
+		"science": 1,
+		"culture": 1,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Mili",
+		"replaces": "Granary",
+		"uniqueTo": "Xiongnu",
+		"food": 2,
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]", "[+1 Food] from [Bananas] tiles [in this city]", "[+1 Food] from [Wheat] tiles [in this city]", "[+1 Production] from [Camp] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Masjid",
+		"replaces": "Temple"
+		"uniqueTo": "The Rashidun"
+		"faith": 2,
+		"culture": 1,
+		"happiness": 2,
+		"requiredBuilding": "Shrine",
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+	},
+	{
+		"name": "Commandery",
+		"replaces": "Armory",
+		"uniqueTo": "Jerusalem",
+		"hurryCostModifier": 25,
+		"faith": 2,
+		"maintenance": 1,
+		"requiredBuilding": "Barracks",
+		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured", "[+2 Gold] from [Holy site] tiles [in this city]"],
+		"requiredTech": "Steel"
+	},
+	{
+		"name": "Medrese",
+		"replaces": "University",
+		"uniqueTo": "Seljuk",
+		"faith": 2,
+		"happiness": 1,
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 3},
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
+	},
+	{
+		"name": "Enclos Paroissial",
+		"replaces": "Monument",
+		"uniqueTo": "Brittany",
+		"culture": 2,
+		"production": 1,
+		"happiness": 1,
+		"cost": 45,
+		"hurryCostModifier": 40,
+		"uniques": ["Destroyed when the city is captured", "[+1 Faith] [in this city] <starting from the [Classical era]>"]
+	},
+	{
+		"name": "Suq",
+		"replaces": "Bank",
+		"uniqueTo": "Mogadishu",
+		"gold": 3,
+		"culture": 1,
+		"specialistSlots": {"Merchant": 2},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
+	},
+	{
+		"name": "Sahelian Granary",
+		"replaces": "Granary",
+		"uniqueTo": "Kanem-Bornu",
+		"food": 3,
+		"cityStrength": 2,
+		"cityHealth": 30,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Stecak",
+		"uniqueTo": "Bosnia",
+		"culture": 1,
+		"uniques": ["[+1 Culture] from [Farm] tiles [in this city] <starting from the [Industrial era]>", "[+1 Faith] from [Farm] tiles [in this city] <starting from the [Medieval era]>"]
+		"requiredTech": "Masonry"
+	},
+	{
+		"name": "Izba",
+		"uniqueTo": "Kievan Rus",
+		"replaces": "Granary",
+		"food": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]", "[+1 Food] from [Bananas] tiles [in this city]", "[+1 Food] from [Wheat] tiles [in this city]", "[+1 Faith] from [Forest] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Curtea Domneasca",
+		"uniqueTo": "Wallachia",
+		"replaces": "Courthouse",
+		"faith": 1,
+		"hurryCostModifier": 50,
+		"uniques": ["Removes extra unhappiness from annexed cities", "Can only be built <in [Annexed] cities>", "[Gold] cost of purchasing [All] units [-10]%"],
+		"requiredTech": "Mathematics"
+	},
+	{
+		"name": "Numismatics",
+		"uniqueTo": "Bactria"
+		"replaces": "Mint",
+		"maintenance": 0,
+		"gold": 2,
+		"happiness": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Yadgar",
+		"uniqueTo": "Afghanistan",
+		"replaces": "Monument",
+		"culture": 4,
+		"cost": 50,
+		"hurryCostModifier": 40,
+		"maintenance": 2,
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Khazar Marketplace",
+		"uniqueTo": "Khazaria",
+		"replaces": "Market",
+		"gold": 3,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["[+2]% [Gold] from Trade Routes"],
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Darbazi Hall",
+		"uniqueTo": "Georgia",
+		"replaces": "Temple",
+		"faith": 2,
+		"happiness": 1,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "[+2 Culture] [in this city] <during a Golden Age>"]
+	},
+	{
+		"name": "Langi",
+		"uniqueTo": "Tonga",
+		"replaces": "Shrine",
+		"faith": 1,
+		"culture": 1,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["Only available <when religion is enabled>", "[+2 Happiness] <in [Capital] cities>"]
+	},
+	{
+		"name": "Casino",
+		"uniqueTo": "Monaco",
+		"replaces": "Stock Exchange",
+		"gold": 5,
+		"happiness": 3,
+		"culture": 3,
+		"percentStatBonus": {"gold": 50},
+		"specialistSlots": {"Merchant": 3},
+		"hurryCostModifier": 15,
+		"requiredBuilding": "Bank",
+		"requiredTech": "Electricity"
+	},
+	{
+		"name": "Moravian Rampart",
+		"uniqueTo": "Great Moravia",
+		"replaces": "Castle",
+		"cityStrength": 8,
+		"cityHealth": 30,
+		"culture": 1,
+		"production": 1,
+		"food": 1,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Temple of the Fleece",
+		"uniqueTo": "Colchis",
+		"replaces": "Temple",
+		"faith": 2,
+		"gold": 2,
+		"requiredBuilding": "Shrine",
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "[+1 Culture, +1 Production] [in this city] <for every adjacent [Hill]>"]
+	},
+	{
+		"name": "Gusuku",
+		"uniqueTo": "Ryukyu",
+		"cityStrength": 3,
+		"cityHealth": 20,
+		"science": 2,
+		"specialistSlots": {"Scientist": 1},
+		"uniques": ["Must be next to [Coast]"],
+		"requiredTech": "Masonry"
 	}
+
 ]
 
