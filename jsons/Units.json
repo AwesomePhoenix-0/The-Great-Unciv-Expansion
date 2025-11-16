@@ -1290,6 +1290,89 @@
 		"upgradesTo": "Destroyer",
 		"uniques": ["[+50]% Strength <when adjacent to a [Great Merchant] unit>", "[+2] Movement <when adjacent to a [Great Merchant] unit>"],
 		"attackSound": "cannon"
-	}
+	},
+	
+//AwesomPhoenix's Unciv Trading
+	{	//This is to make the worker able to build airports
+		"name": "Worker",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "Free [Airport] appears <by consuming this unit> <after discovering [Flight]>"],
+		"cost": 70
+	},
+	//Trade boats
+   {	"name": "Trade Boat",
+	"unitType": "Civilian Water",
+	"movement": 3,
+	"cost": 100,
+	"requiredTech": "Sailing",
+	"obsoleteTech": "Compass",
+	"upgradesTo": "Trade Ship",
+	"uniques": ["Cannot enter ocean tiles", "No defensive terrain bonus", "Gain [50] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [Capital Marker]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>", "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"]
+  }, 
+{	"name": "Trade Ship",
+	"unitType": "Civilian Water",
+	"movement": 4,
+	"cost": 175,
+	"requiredTech": "Compass",
+	"obsoleteTech": "Navigation",
+	"upgradesTo": "Fluyt",
+	"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "No defensive terrain bonus", "Gain [100] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [Capital Marker]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>", "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"]
+  },
+{	"name": "Fluyt",
+	"unitType": "Civilian Water",
+	"movement": 5,
+	"cost": 225,
+	"requiredTech": "Navigation",
+	"obsoleteTech": "Steam Power",
+	"upgradesTo": "Collier", 
+	"uniques": ["No defensive terrain bonus", "Gain [150] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [Capital Marker]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>", "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"]
+  },
+{	"name": "Collier",
+	"unitType": "Civilian Water",
+	"movement": 5,
+	"cost": 250,
+	"requiredResource": "Coal",
+	"requiredTech": "Steam Power",
+	"obsoleteTech": "Combustion",
+	"upgradesTo": "Container ship",
+	"uniques": ["No defensive terrain bonus", "Gain [200] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [Capital Marker]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>", "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"]
+  },
+{	"name": "Container ship",
+	"unitType": "Civilian Water",
+	"movement": 6,
+	"cost": 260,
+	"requiredTech": "Combustion",
+	"uniques": ["No defensive terrain bonus", "Gain [250] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [Capital Marker]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>", "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"]
+  },
+	//AirPorts
+{	"name": "Airport",
+	"unitType": "Airport",
+	"movement": 0,
+	"strength": 40,
+	"requiredTech": "Flight",
+	"uniques": ["Cannot attack", "No defensive terrain bonus", "Can carry [2] [Aircraft] units", "Unbuildable", "Cannot be purchased", "No Sight", "Cannot move", "Never appears as a Barbarian unit", "May enter foreign tiles without open borders"]
+	},
+	//Trading Planes
+{	"name": "Trading Triplane",
+	"unitType": "Trade Plane",
+	"movement": 1,
+	"range": 5,
+	"cost": 300,
+	"requiredResource": "Oil",
+	"upgradesTo": "Freight plane",
+	"obsoleteTech": "Radar",
+	"requiredTech": "Flight",
+	"uniques": ["No defensive terrain bonus", "Gain [250] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [Capital Marker]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>", "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"]
+	},
+{	"name": "Freight plane",
+	"unitType": "Trade Plane",
+	"movement": 1,
+	"range": 10,
+	"cost": 375,
+	"requiredResource": "Oil",
+	"requiredTech": "Radar",
+	"uniques": ["No defensive terrain bonus", "Gain [350] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [Capital Marker]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>", "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"]
+	},
 ]
 
