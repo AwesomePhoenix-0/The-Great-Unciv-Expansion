@@ -5,5 +5,11 @@
 		"resourceType": "Strategic",
 		"revealedBy": "Nanomaterials",
 		"production": 1
+	},
+	{
+		"name": "Secret Project",
+		"resourceType": "Strategic",
+		"revealedBy": "Scientific Theory",
+		"science": 1
 	}
 ]
