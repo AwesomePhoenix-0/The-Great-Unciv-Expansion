@@ -1,0 +1,27 @@
+
+[ //Thunder's Other historical civs
+      	{
+        	"name": "Diwylliedig",
+		"uniques": ["Earn [20]% of killed [Wounded] unit's [Cost] as [Culture]"]
+	},
+      	{
+        	"name": "Pirate",
+		"uniques": ["May enter foreign tiles without open borders", "Withdraws before melee combat <with [50]% chance>"]
+	},
+      	{
+        	"name": "Highlands",
+		"uniques": ["Double movement in [Hill]"]
+	},
+      	{
+        	"name": "Muzakka",
+		"uniques": ["[+35]% Strength <in cities following our religion>"]
+	},
+      	{
+        	"name": "Hit and Run Tactics",
+		"uniques": ["Can move after attacking", "[+1] Movement"]
+	},
+      	{
+        	"name": "Tonga Time",
+		"uniques": ["Double movement in [Ocean]", "[+1] Sight"]
+      	},
+]
