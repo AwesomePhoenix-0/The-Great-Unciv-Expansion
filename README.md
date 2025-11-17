@@ -1,6 +1,6 @@
 # The-Great-Unciv-Expansion
 This is an expansion mod that comnbine multiple other expansions, the goal of this expansion is to add content to the base game, while still making it understandable to people who only played the base game.
-Discord thread :
+- Discord thread : https://discord.com/channels/586194543280390151/1440085670700912640/1440085670700912640
 
 **Missing content  (will update this) :**
 - Balancing culture and economic victory because scientific victory is now way harder to get.
