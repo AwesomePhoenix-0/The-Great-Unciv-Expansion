@@ -2,6 +2,13 @@
 This is an expansion mod that comnbine multiple other expansions, the goal of this expansion is to add content to the base game, while still making it understandable to people who only played the base game.
 Discord thread :
 
+**Missing content  (will update this) :**
+- Balancing culture and economic victory because scientific victory is now way harder to get.
+- Adding maps and scenarios to the mod
+- Adding a tutorial scenario
+- Making everyone give a star
+- Other ?
+
 **List of expansions used :**
 - Kurwizimi's Future Worlds : https://github.com/Kurwizimi/Future-Worlds/tree/master
 - Thunder's Other Historical Civs : https://github.com/ThunderWasTaken/other-historical-civs
