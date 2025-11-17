@@ -1,0 +1,2042 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Alan Courthouse
+  rotate: false
+  xy: 4, 1252
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Baray Reservoir
+  rotate: false
+  xy: 212, 1252
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Bryngaer
+  rotate: false
+  xy: 690, 1730
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Caravanserai
+  rotate: false
+  xy: 4, 628
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Casino
+  rotate: false
+  xy: 212, 836
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Commandery
+  rotate: false
+  xy: 212, 628
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Corroboree Grounds
+  rotate: false
+  xy: 1106, 1522
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Curtea Domneasca
+  rotate: false
+  xy: 4, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Darbazi Hall
+  rotate: false
+  xy: 212, 420
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Distillery
+  rotate: false
+  xy: 1314, 1522
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Enclos Paroissial
+  rotate: false
+  xy: 1522, 1522
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Frisian Farmhouse
+  rotate: false
+  xy: 1730, 1730
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Galleon's Harbor
+  rotate: false
+  xy: 420, 1044
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Glagolitic School
+  rotate: false
+  xy: 420, 836
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Gold Mine
+  rotate: false
+  xy: 420, 628
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Gompas
+  rotate: false
+  xy: 420, 420
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Gusuku
+  rotate: false
+  xy: 420, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Hanseatic Warehouse
+  rotate: false
+  xy: 628, 1106
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Holy Order Castle
+  rotate: false
+  xy: 1044, 1314
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Izba
+  rotate: false
+  xy: 836, 898
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Khazar Marketplace
+  rotate: false
+  xy: 628, 482
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Kushana Stone Works
+  rotate: false
+  xy: 628, 274
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Langi
+  rotate: false
+  xy: 836, 482
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Literary School
+  rotate: false
+  xy: 1252, 898
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Masjid
+  rotate: false
+  xy: 1460, 1106
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Mbanza
+  rotate: false
+  xy: 1668, 1314
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Medrese
+  rotate: false
+  xy: 628, 66
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Mili
+  rotate: false
+  xy: 836, 274
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Mingun Pagoda
+  rotate: false
+  xy: 1044, 482
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Moravian Rampart
+  rotate: false
+  xy: 1460, 898
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Norse Temple
+  rotate: false
+  xy: 1668, 898
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Numismatics
+  rotate: false
+  xy: 1044, 66
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Nuraghe
+  rotate: false
+  xy: 1252, 274
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Pirate Bay
+  rotate: false
+  xy: 1460, 274
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Red Cross Hospital
+  rotate: false
+  xy: 1460, 66
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Reduction
+  rotate: false
+  xy: 1668, 274
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TechIcons/Human Augmentation
+  rotate: false
+  xy: 4, 1460
+  size: 470, 470
+  orig: 470, 470
+  offset: 0, 0
+  index: -1
+UnitIcons/Arma Toxotis
+  rotate: false
+  xy: 482, 1730
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Bagad
+  rotate: false
+  xy: 4, 1044
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Boita
+  rotate: false
+  xy: 482, 1522
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Buccaneer
+  rotate: false
+  xy: 4, 836
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Bucellarii
+  rotate: false
+  xy: 212, 1044
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Caaigua
+  rotate: false
+  xy: 690, 1522
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Calaret
+  rotate: false
+  xy: 898, 1730
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Centurion
+  rotate: false
+  xy: 898, 1522
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Chinkunshin
+  rotate: false
+  xy: 1106, 1730
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Coast Guard
+  rotate: false
+  xy: 4, 420
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Crusader
+  rotate: false
+  xy: 1314, 1730
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Drakkar
+  rotate: false
+  xy: 4, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Druzhina Cavalry
+  rotate: false
+  xy: 212, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Fryske Grynder
+  rotate: false
+  xy: 212, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Fyrd
+  rotate: false
+  xy: 1730, 1522
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Galleon
+  rotate: false
+  xy: 420, 1252
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Gwaywffon
+  rotate: false
+  xy: 420, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Hanseatic Corsair
+  rotate: false
+  xy: 628, 1314
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Highlander
+  rotate: false
+  xy: 836, 1314
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Horon Swordsman
+  rotate: false
+  xy: 628, 690
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Kalia
+  rotate: false
+  xy: 1044, 1106
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Tonga Time
+  rotate: false
+  xy: 1044, 1106
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Keshilim
+  rotate: false
+  xy: 1252, 1314
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Khwarazmiyya
+  rotate: false
+  xy: 836, 690
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Knights Hospitaller
+  rotate: false
+  xy: 1044, 898
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Koshano Horseman
+  rotate: false
+  xy: 1252, 1106
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Krstjani
+  rotate: false
+  xy: 1460, 1314
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Laputtu
+  rotate: false
+  xy: 1044, 690
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Monaspa
+  rotate: false
+  xy: 1252, 690
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Mujahid
+  rotate: false
+  xy: 1668, 1106
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Musket Mercenary
+  rotate: false
+  xy: 836, 66
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Myin Zaing
+  rotate: false
+  xy: 1252, 482
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Ngola Warrior
+  rotate: false
+  xy: 1460, 690
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Penteconter
+  rotate: false
+  xy: 1460, 482
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Pillager
+  rotate: false
+  xy: 1668, 690
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Poljska Konjica
+  rotate: false
+  xy: 1668, 482
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Rtakhrab Pai' dpung
+  rotate: false
+  xy: 1668, 66
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Diwylliedig
+  rotate: false
+  xy: 1522, 1730
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Highlands
+  rotate: false
+  xy: 628, 898
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Hit and Run Tactics
+  rotate: false
+  xy: 836, 1106
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Muzakka
+  rotate: false
+  xy: 1044, 274
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Pirate
+  rotate: false
+  xy: 1252, 66
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/AI Network
+  rotate: false
+  xy: 1252, 1824
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Angelnet
+  rotate: false
+  xy: 518, 992
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Aquaculture Lab
+  rotate: false
+  xy: 1448, 1824
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Autoplant
+  rotate: false
+  xy: 428, 698
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Bioenhancement Centre
+  rotate: false
+  xy: 436, 502
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Biofactory
+  rotate: false
+  xy: 436, 404
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Biogenesis Pod
+  rotate: false
+  xy: 436, 306
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Bionic Tower
+  rotate: false
+  xy: 436, 110
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Birthing Pods
+  rotate: false
+  xy: 714, 984
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Borehole
+  rotate: false
+  xy: 1260, 1628
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Brain Uploading Facility
+  rotate: false
+  xy: 1150, 1508
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Buenos Aires Forum
+  rotate: false
+  xy: 1052, 1410
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Burj Al-Arab
+  rotate: false
+  xy: 1150, 1410
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Central Command
+  rotate: false
+  xy: 844, 1192
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Citadel Station
+  rotate: false
+  xy: 616, 886
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Cloning Lab
+  rotate: false
+  xy: 526, 788
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Coal Converter
+  rotate: false
+  xy: 624, 788
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Oil Converter
+  rotate: false
+  xy: 624, 788
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Comm Module
+  rotate: false
+  xy: 534, 690
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Cyberclinic
+  rotate: false
+  xy: 534, 396
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Digital Emancipation
+  rotate: false
+  xy: 534, 102
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Distribution Hub
+  rotate: false
+  xy: 1122, 67
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+BuildingIcons/Drone Hive
+  rotate: false
+  xy: 812, 994
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/E-Commerce Server
+  rotate: false
+  xy: 820, 798
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ecosanctuary
+  rotate: false
+  xy: 940, 1094
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Engineering Module
+  rotate: false
+  xy: 918, 798
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Enrichment Centre
+  rotate: false
+  xy: 1008, 996
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Floating Islands
+  rotate: false
+  xy: 1220, 458
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+BuildingIcons/Fusion Reactor
+  rotate: false
+  xy: 1016, 800
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Genejack Facility
+  rotate: false
+  xy: 1038, 1094
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Genemod Lab
+  rotate: false
+  xy: 1106, 996
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Geofront
+  rotate: false
+  xy: 918, 700
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Geothermal Plant
+  rotate: false
+  xy: 1220, 361
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+BuildingIcons/Helios Microwave Power Satellite
+  rotate: false
+  xy: 1016, 702
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Implant Clinic
+  rotate: false
+  xy: 632, 592
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Information Hub
+  rotate: false
+  xy: 632, 298
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Jurassic Park
+  rotate: false
+  xy: 632, 200
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Kalt Geymsla Data Haven
+  rotate: false
+  xy: 1220, 264
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+BuildingIcons/Launch Facility
+  rotate: false
+  xy: 632, 102
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Metroplex Hub
+  rotate: false
+  xy: 820, 602
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Mnemosyne Facility
+  rotate: false
+  xy: 730, 406
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Moon Base
+  rotate: false
+  xy: 828, 504
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Mycoprotein Vats
+  rotate: false
+  xy: 828, 406
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Nanoforge
+  rotate: false
+  xy: 730, 210
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Nanomaterial Plant
+  rotate: false
+  xy: 828, 210
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Nephilim Gene Template
+  rotate: false
+  xy: 828, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Network Backbone
+  rotate: false
+  xy: 926, 504
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Nucleonic Foundry
+  rotate: false
+  xy: 926, 210
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Orbital Habitat
+  rotate: false
+  xy: 926, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Orbital Refinery
+  rotate: false
+  xy: 1016, 602
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Particle Accelerator
+  rotate: false
+  xy: 1024, 504
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Research Module
+  rotate: false
+  xy: 1024, 210
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Research Server
+  rotate: false
+  xy: 1024, 112
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ruka
+  rotate: false
+  xy: 4, 1822
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sahelian Granary
+  rotate: false
+  xy: 4, 1614
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sandstone Mausoleum
+  rotate: false
+  xy: 212, 1822
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sapitu
+  rotate: false
+  xy: 4, 1406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Server Hub
+  rotate: false
+  xy: 952, 1300
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Shanghai Tower
+  rotate: false
+  xy: 1052, 1312
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Shimizu Mega City Pyramid
+  rotate: false
+  xy: 1150, 1312
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sky City
+  rotate: false
+  xy: 1248, 1236
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Skynet
+  rotate: false
+  xy: 1346, 1236
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Space Station
+  rotate: false
+  xy: 1136, 1116
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Stecak
+  rotate: false
+  xy: 212, 1406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Suq
+  rotate: false
+  xy: 628, 1822
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Telepresence Hub
+  rotate: false
+  xy: 1204, 942
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Temple of the Fleece
+  rotate: false
+  xy: 212, 1198
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Thingstead
+  rotate: false
+  xy: 420, 1406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Tidal Array
+  rotate: false
+  xy: 1212, 751
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Tidal Plant
+  rotate: false
+  xy: 1212, 653
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Trakai Castle
+  rotate: false
+  xy: 836, 1822
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Transgenic Nursery
+  rotate: false
+  xy: 1212, 555
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ultima Tower
+  rotate: false
+  xy: 1430, 1040
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Undersea Mining Platform
+  rotate: false
+  xy: 1442, 1138
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Utility Fog Generator
+  rotate: false
+  xy: 1498, 942
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Utsäde Gene Vault
+  rotate: false
+  xy: 1358, 1629
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+BuildingIcons/VR Training Centre
+  rotate: false
+  xy: 1528, 1040
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Vertical Farm
+  rotate: false
+  xy: 1122, 359
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Virtual Idol
+  rotate: false
+  xy: 1122, 261
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Yadgar
+  rotate: false
+  xy: 1044, 1822
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ziyarateh
+  rotate: false
+  xy: 4, 574
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Arcology
+  rotate: false
+  xy: 1644, 1824
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Communications Array
+  rotate: false
+  xy: 534, 592
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Eco-Commune
+  rotate: false
+  xy: 842, 1092
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Generator
+  rotate: false
+  xy: 1106, 898
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Genocentre
+  rotate: false
+  xy: 820, 700
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Hydroponics Dome
+  rotate: false
+  xy: 1248, 1334
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Industrial Complex
+  rotate: false
+  xy: 632, 396
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Nature Preserve
+  rotate: false
+  xy: 828, 112
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Support Node
+  rotate: false
+  xy: 1234, 1040
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Afghanistan
+  rotate: false
+  xy: 212, 882
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Akkad
+  rotate: false
+  xy: 420, 1090
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Aragon
+  rotate: false
+  xy: 628, 1298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Australia
+  rotate: false
+  xy: 836, 1506
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Bactria
+  rotate: false
+  xy: 1044, 1714
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Bosnia
+  rotate: false
+  xy: 1252, 1922
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Brittany
+  rotate: false
+  xy: 4, 466
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Bulgaria
+  rotate: false
+  xy: 212, 774
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Burma
+  rotate: false
+  xy: 1360, 1922
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Colchis
+  rotate: false
+  xy: 4, 358
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Croatia
+  rotate: false
+  xy: 212, 666
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Danzig
+  rotate: false
+  xy: 1468, 1922
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Frisia
+  rotate: false
+  xy: 4, 250
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Funan
+  rotate: false
+  xy: 1576, 1922
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Georgia
+  rotate: false
+  xy: 4, 142
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Great Moravia
+  rotate: false
+  xy: 1684, 1922
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Guarani
+  rotate: false
+  xy: 4, 34
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Jerusalem
+  rotate: false
+  xy: 1792, 1922
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Kanem-Bornu
+  rotate: false
+  xy: 1900, 1922
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Khazaria
+  rotate: false
+  xy: 320, 882
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Khwarazm
+  rotate: false
+  xy: 320, 774
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Kievan Rus
+  rotate: false
+  xy: 320, 666
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Kongo
+  rotate: false
+  xy: 528, 1090
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Kushan
+  rotate: false
+  xy: 736, 1298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Lithuania
+  rotate: false
+  xy: 944, 1506
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Mali
+  rotate: false
+  xy: 1152, 1714
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Mogadishu
+  rotate: false
+  xy: 112, 466
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Monaco
+  rotate: false
+  xy: 112, 358
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Norway
+  rotate: false
+  xy: 112, 250
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Ryukyu
+  rotate: false
+  xy: 112, 34
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Saxony
+  rotate: false
+  xy: 220, 558
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Scotland
+  rotate: false
+  xy: 220, 450
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Seljuk
+  rotate: false
+  xy: 220, 342
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Switzerland
+  rotate: false
+  xy: 220, 234
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Holy Romans
+  rotate: false
+  xy: 220, 126
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Mapuche
+  rotate: false
+  xy: 328, 558
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Nabataeans
+  rotate: false
+  xy: 328, 450
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Pirate Republic
+  rotate: false
+  xy: 328, 342
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Rashidun
+  rotate: false
+  xy: 328, 234
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Sea People
+  rotate: false
+  xy: 328, 126
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Vandals
+  rotate: false
+  xy: 220, 18
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Tibet
+  rotate: false
+  xy: 328, 18
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Tonga
+  rotate: false
+  xy: 636, 1190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Wales
+  rotate: false
+  xy: 636, 1082
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Wallachia
+  rotate: false
+  xy: 844, 1398
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Western Rome
+  rotate: false
+  xy: 844, 1290
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Xiongnu
+  rotate: false
+  xy: 1052, 1606
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Nanomaterial
+  rotate: false
+  xy: 730, 112
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Adamantium
+  rotate: false
+  xy: 420, 992
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Arcologies
+  rotate: false
+  xy: 1546, 1824
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Artificial Environments
+  rotate: false
+  xy: 1840, 1824
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Artificial Intelligence
+  rotate: false
+  xy: 1260, 1726
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Autonomous Systems
+  rotate: false
+  xy: 428, 796
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Biomodification
+  rotate: false
+  xy: 436, 208
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Cloning
+  rotate: false
+  xy: 714, 886
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Cognitive Technology
+  rotate: false
+  xy: 722, 788
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Computronium
+  rotate: false
+  xy: 534, 494
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Cybernetics
+  rotate: false
+  xy: 1122, 164
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+TechIcons/Designer Lifeforms
+  rotate: false
+  xy: 534, 200
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Digital Society
+  rotate: false
+  xy: 534, 4
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Distributed Computing
+  rotate: false
+  xy: 1938, 1726
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Ecotheory
+  rotate: false
+  xy: 910, 994
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Energy Theory
+  rotate: false
+  xy: 910, 896
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Environmentalism
+  rotate: false
+  xy: 1008, 898
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Genetic Manipulation
+  rotate: false
+  xy: 1114, 800
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/High-Energy Physics
+  rotate: false
+  xy: 1114, 702
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Homo Superior
+  rotate: false
+  xy: 1260, 1530
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Hyperstructures
+  rotate: false
+  xy: 1346, 1432
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Implants
+  rotate: false
+  xy: 632, 494
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Memetics
+  rotate: false
+  xy: 1220, 167
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+TechIcons/Microscale Engineering
+  rotate: false
+  xy: 918, 602
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Nanomaterials
+  rotate: false
+  xy: 730, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Neural Interface
+  rotate: false
+  xy: 926, 406
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Orbital Development
+  rotate: false
+  xy: 926, 112
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Smart Materials
+  rotate: false
+  xy: 1050, 1214
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Space Colonization
+  rotate: false
+  xy: 1148, 1214
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/Terraforming
+  rotate: false
+  xy: 1302, 942
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+TechIcons/The Internet
+  rotate: false
+  xy: 1212, 849
+  size: 90, 85
+  orig: 90, 85
+  offset: 0, 0
+  index: -1
+TechIcons/Transgenics
+  rotate: false
+  xy: 1400, 942
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Advanced Destroyer
+  rotate: false
+  xy: 1052, 1508
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Airborne Forces
+  rotate: false
+  xy: 1350, 1824
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Arsenal Ship
+  rotate: false
+  xy: 1742, 1824
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Automaton
+  rotate: false
+  xy: 428, 894
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Battlesuit
+  rotate: false
+  xy: 616, 984
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Bio-Titan
+  rotate: false
+  xy: 1938, 1824
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Biodrone
+  rotate: false
+  xy: 436, 600
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Biotrooper
+  rotate: false
+  xy: 436, 12
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Chimera
+  rotate: false
+  xy: 942, 1192
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Cybersub
+  rotate: false
+  xy: 534, 298
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Drone Fighter
+  rotate: false
+  xy: 744, 1092
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Drone UAV
+  rotate: false
+  xy: 812, 896
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Hybrid Drone
+  rotate: false
+  xy: 1248, 1432
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Hypervelocity Missile
+  rotate: false
+  xy: 1346, 1334
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Mech Artillery
+  rotate: false
+  xy: 632, 4
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Missile Destroyer
+  rotate: false
+  xy: 730, 504
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Mutant
+  rotate: false
+  xy: 730, 308
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Nanohive
+  rotate: false
+  xy: 828, 308
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Nexus
+  rotate: false
+  xy: 926, 308
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Organic Infantry
+  rotate: false
+  xy: 1114, 604
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Phasers
+  rotate: false
+  xy: 112, 142
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Power Armor Infantry
+  rotate: false
+  xy: 1024, 406
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Railgun Armor
+  rotate: false
+  xy: 1024, 308
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Robot Infantry
+  rotate: false
+  xy: 1024, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Sayf
+  rotate: false
+  xy: 212, 1614
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Shu'ai
+  rotate: false
+  xy: 420, 1822
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Shuanare Jar
+  rotate: false
+  xy: 4, 1198
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Special Forces
+  rotate: false
+  xy: 1246, 1138
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Stringdrawer
+  rotate: false
+  xy: 420, 1614
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Suborbital Bomber
+  rotate: false
+  xy: 1219, 70
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+UnitIcons/Supercarrier
+  rotate: false
+  xy: 1344, 1138
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/T. Rex
+  rotate: false
+  xy: 1332, 1040
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Tarkhan
+  rotate: false
+  xy: 4, 990
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Toqui
+  rotate: false
+  xy: 628, 1614
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Triceratops
+  rotate: false
+  xy: 1316, 70
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+UnitIcons/Tsar Guard
+  rotate: false
+  xy: 4, 782
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Tumen
+  rotate: false
+  xy: 212, 990
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/VTOL
+  rotate: false
+  xy: 1596, 942
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Velmož
+  rotate: false
+  xy: 420, 1198
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Velociraptor
+  rotate: false
+  xy: 1122, 457
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Voyi
+  rotate: false
+  xy: 628, 1406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Woomera
+  rotate: false
+  xy: 836, 1614
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
