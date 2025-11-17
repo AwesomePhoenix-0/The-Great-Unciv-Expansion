@@ -4095,6 +4095,7 @@
 		"unitType": "Ranged Water",
 		"uniqueTo": "America",
 		"replaces": "Missile Cruiser",
+		"upgradesTo": "Arsenal Ship",
 		"movement": 7,
 		"strength": 75,
 		"rangedStrength": 100,
