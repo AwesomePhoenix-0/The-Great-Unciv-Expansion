@@ -20,3 +20,8 @@ This is an expansion mod that comnbine multiple other expansions, the goal of th
 - Talk about it on the discord thread and ping me
 - Make sure there is no bugs (if you don't know how to fix them, just ask)
 - Make sure the content is balanced and doesn't go too far from vanilla gameplay
+
+**If you want to make sprites for the mod :**
+- Prioritise missing icons and sprites
+- If you don't know how to add them ping me on discord
+- Of course, no NSFW or controversial images
