@@ -3,7 +3,7 @@ This is an expansion mod that comnbine multiple other expansions, the goal of th
 - Discord thread : https://discord.com/channels/586194543280390151/1440085670700912640/1440085670700912640
 
 **Missing content  (will update this) :**
-- Balancing culture and economic victory because scientific victory is now way harder to get.
+- Balancing culture and economic victory because scientific victory is now way harder to get. https://github.com/AwesomePhoenix-0/The-Great-Unciv-Expansion/tree/Balancing-victory-types
 - Adding maps and scenarios to the mod
 - Adding a tutorial scenario
 - Making everyone give a star
