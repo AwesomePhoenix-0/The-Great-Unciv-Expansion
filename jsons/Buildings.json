@@ -1183,10 +1183,10 @@
 },
  {
 	"name": "The World",
-	"cost": 100000,
+	"cost": 400000,
 	"hurryCostModifier": 0,
 	"quote": "'There is enough on Earth for everybody's need, but not enough for everybody's greed.' — Frank Buchman"
-	"uniques": ["Unbuildable", "Can be purchased for [100000] [Gold] [in all cities]", "Shown while unavailable"]
+	"uniques": ["Unbuildable", "Can be purchased for [400000] [Gold] [in all cities]", "Shown while unavailable"]
 },
 //Warfare Expanded
 {
@@ -1306,6 +1306,13 @@
 		"requiredTech": "Particle Physics",
 		"cityHealth": 200,
 		"uniques": ["Population loss from nuclear attacks [-100]% [in this city]", "Consumes [1] [Secret Project]", "Will not be displayed in Civilopedia", "Only available <with [Secret Project]>", "All newly-trained [Armored] units [in this city] receive the [Iron Curtain Force Field] promotion"]
+	},
+{//Utopi project
+		"name": "Utopia Project",
+		"cost": 1500,
+		"isNationalWonder": true,
+		"uniques": ["Unavailable <when number of [Completed Policy branches] is less than [6]>", "Triggers a global alert upon build start",
+			"Triggers a Cultural Victory upon completion", "Only available <when [Cultural] Victory is enabled>", "Cannot be hurried"]
 	}
 ]
 
