@@ -1183,10 +1183,10 @@
 },
  {
 	"name": "The World",
-	"cost": 100000,
+	"cost": 400000,
 	"hurryCostModifier": 0,
 	"quote": "'There is enough on Earth for everybody's need, but not enough for everybody's greed.' — Frank Buchman"
-	"uniques": ["Unbuildable", "Can be purchased for [100000] [Gold] [in all cities]", "Shown while unavailable"]
+	"uniques": ["Unbuildable", "Can be purchased for [400000] [Gold] [in all cities]", "Shown while unavailable"]
 },
 //Warfare Expanded
 {
